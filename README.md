@@ -1,2 +1,2 @@
 # springframwork
-knowledge of spring framwork
+this repository is used to study spring
